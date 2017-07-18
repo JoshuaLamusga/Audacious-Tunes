@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudaciousTunes", "AudaciousTunes\AudaciousTunes.csproj", "{92DAD7D7-61C0-4DF4-8631-7451078B31E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingProject", "TestingProject\TestingProject.csproj", "{B81DF20E-3555-483A-AAC3-A09592A1DBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DAD7D7-61C0-4DF4-8631-7451078B31E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DAD7D7-61C0-4DF4-8631-7451078B31E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DAD7D7-61C0-4DF4-8631-7451078B31E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DAD7D7-61C0-4DF4-8631-7451078B31E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81DF20E-3555-483A-AAC3-A09592A1DBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81DF20E-3555-483A-AAC3-A09592A1DBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81DF20E-3555-483A-AAC3-A09592A1DBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81DF20E-3555-483A-AAC3-A09592A1DBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
